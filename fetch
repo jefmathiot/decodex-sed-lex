@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+require 'net/http'
+require 'json'
+require 'csv'
+
+URL = 'https://www.lemonde.fr/webservice/decodex/updates'.freeze
+
+categories = [
+  'non-source ou source peu fiable',
+  'site satirique ou parodique',
+  'site diffusant régulièrement de fausses informations',
+  'site souvent imprécis',
+  'site en principe plutôt fiable'
+]
+uri = URI.parse(URL)
+Net::HTTP.new(uri.host, 443).tap do |http|
+  http.use_ssl = true
+  CSV.open('decodex.csv', 'wb') do |csv|
+    csv << %w(nom categorie description)
+    JSON.parse(http.get(uri.request_uri).body)['sites']
+        .map(&:last)
+        .each do |site|
+      csv << [site[2], categories[site[0].to_i], site[1]]
+    end
+  end
+end
