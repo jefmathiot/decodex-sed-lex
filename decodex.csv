@@ -1,4 +1,6 @@
 nom,categorie,description
+Alternatives Economiques,site en principe plutôt fiable,"Un site et un magazine consacrés à l'économie et au social, qui se place dans une tradition économique héritée de Keynes et du régulationnisme. Le site, fondé par l'économiste Denis Clerc, est détenu par ses salariés."
+Le Monde des informations alternatives,site diffusant régulièrement de fausses informations,"Un site qui agrège des articles issus d'autres sites, dont certains de type conspirationniste"
 Le Monde (édition abonnés mobile),site en principe plutôt fiable,"Un quotidien et site Internet d'information généraliste. Le groupe est détenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Bergé et Matthieu Pigasse."
 Le Monde (édition mobile),site en principe plutôt fiable,"Un quotidien et site Internet d'information généraliste. Le groupe est détenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Bergé et Matthieu Pigasse."
 Mes Opinions,non-source ou source peu fiable,Mes Opinions n'est pas une source d'information. Il s'agit d'une plateforme de pétitions sur laquelle n'importe quel internaute peut lancer un appel.
@@ -180,7 +182,7 @@ Historia,site en principe plutôt fiable,Une revue mensuelle de vulgarisation hi
 Grazia,site en principe plutôt fiable,Un hebdomadaire féminin.
 Glamour,site en principe plutôt fiable,Un magazine mensuel féminin.
 Frankfurter Rundschau,site en principe plutôt fiable,"Un quotidien et site Internet allemand engagé dans la défense des droits de l'homme, des minorités et de l'environnement et classé politiquement sur une ligne à tendance social-libérale."
-Franceinfo,site en principe plutôt fiable,"Site Internet, télévision et radio d'actualité généraliste du groupe France Télévisions."
+Franceinfo,site en principe plutôt fiable,"Site Internet, télévision et radio d'actualité généraliste des groupes France Télévisions et Radio France."
 France Inter,site en principe plutôt fiable,Radio publique généraliste.
 France Culture,site en principe plutôt fiable,Radio publique culturelle et de débats.
 France Bleu,site en principe plutôt fiable,Réseau de radio publique d'information locale déclinée en 45 radios de proximité.
@@ -192,7 +194,6 @@ Financial Times,site en principe plutôt fiable,"Un quotidien britannique, l'un 
 Femme actuelle,site en principe plutôt fiable,Un magazine hebdomadaire féminin du groupe Prisma Media.
 Europe 1,site en principe plutôt fiable,"Radio publique généraliste privée, propriété du groupe Lagardère."
 Euronews,site en principe plutôt fiable,Chaîne de télévision européenne d'information en plusieurs langues.
-Elle,site en principe plutôt fiable,Un hebdomadaire féminin.
 Direct matin,site en principe plutôt fiable,"Un quotidien gratuit et site Internet d'information généraliste qui appartient au groupe de médias de Vincent Bolloré, également propriétaire de Canal +."
 Die Tageszeitung,site en principe plutôt fiable,"Un journal et site Internet allemand orienté à gauche, à tendance féministe, écologiste et pacifiste."
 Dernières Nouvelles d'Alsace,site en principe plutôt fiable,Un quotidien et site Internet régional qui appartient au groupe BFCM.
@@ -302,7 +303,6 @@ Humour de mecs,site souvent imprécis,Un site Internet racoleur spécialisé dan
 Hitek,site souvent imprécis,"Un site consacré notamment aux séries et aux jeux vidéo, avec un traitement parfois approximatif de l'actualité."
 Herault Tribune,site souvent imprécis,"Un « magazine d'informations locales » dirigé par une élue locale non inscrite, anciennement membre du MoDem."
 Fdesouche,site souvent imprécis,"Un blog d'extrême droite fondé par un ancien cadre du Front national, Pierre Sautarel. Le site produit peu d'informations lui-même, mais il est alimenté par une sorte de « revue de presse », principalement axée autour de thèmes chers à l'extrême droite (immigration, identité, faits divers...). Si la plupart des sources utilisées sont fiables, la présentation des faits par le site est souvent trompeuse. Il relaie également parfois des rumeurs non vérifiées, sur un ton interrogatif."
-Fakir,site souvent imprécis,"Un journal indépendant de gauche, situé à Amiens, dirigé par François Ruffin, réalisateur du film « Merci patron », avec une ligne éditoriale militante et un parti pris clairement revendiqué."
 Eurocalifat,site souvent imprécis,"Un site d'opinion, hostile à l'islam, qui publie parfois de fausses informations."
 Etienne Chouard,site souvent imprécis,"Le site d'un ex-enseignant, qui s'était fait connaître par son opposition au référendum européen de 2005. Il se définit comme « révolutionnaire », veut réformer la Constitution, et diffuse parfois des théories conspirationnistes, notamment sur des « agents de l'étranger » ou un « nouvel ordre mondial », sans preuve ni vérification."
 "Blog du ""Plan C"", par Etienne Chouard",site souvent imprécis,"Le site d'un ex-enseignant, qui s'était fait connaître par son opposition au référendum européen de 2005. Il se définit comme « révolutionnaire », veut réformer la Constitution, et diffuse parfois des théories conspirationnistes, notamment sur des « agents de l'étranger » ou un « nouvel ordre mondial », sans preuve ni vérification."
@@ -411,7 +411,7 @@ Mensonges.fr,site diffusant régulièrement de fausses informations,"Un site qui
 Medialibre,site diffusant régulièrement de fausses informations,"Un site « antisioniste à tendance antisémite », selon « Rue89 »."
 LesObservateurs.ch,site diffusant régulièrement de fausses informations,Un site suisse proche de l'extrême droite épinglé à plusieurs reprises pour des articles de désinformation.
 Les moutons rebelles,site diffusant régulièrement de fausses informations,"Un site qui diffuse des théories conspirationnistes et négationnistes, remettant par exemple en cause, sans preuve réelle, la « version officielle » du 11 septembre 2001 ou bien l'extermination des juifs pendant la Seconde guerre mondiale."
-Les Crises,site diffusant régulièrement de fausses informations,"Un blog d'analyses économiques et géopolitiques qui héberge parfois des théories conspirationnistes, notamment sur la crise ukrainienne."
+Les Crises,site souvent imprécis,"Un blog d'analyses économiques et géopolitiques qui héberge parfois des théories conspirationnistes, notamment sur la crise ukrainienne."
 Les Chroniques de Rorschach,site diffusant régulièrement de fausses informations,Un site peu fiable qui relaie de nombreuses théories conspirationnistes.
 Lengadoc Info,site diffusant régulièrement de fausses informations,"Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations."
 Le6emetiroir,site diffusant régulièrement de fausses informations,Un site qui diffuse des articles trompeurs et des théories conspirationnistes.
